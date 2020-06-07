@@ -11,7 +11,7 @@ const typeDefs = `
 
 const resolvers = {
     Query:{
-        hello: () => "Hi"
+        hello: () => "Hello"
     }
 };
 
